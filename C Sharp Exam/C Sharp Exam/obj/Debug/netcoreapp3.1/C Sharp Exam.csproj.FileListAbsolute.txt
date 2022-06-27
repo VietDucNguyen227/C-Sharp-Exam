@@ -1,0 +1,14 @@
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\bin\Debug\netcoreapp3.1\C Sharp Exam.exe
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\bin\Debug\netcoreapp3.1\C Sharp Exam.deps.json
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\bin\Debug\netcoreapp3.1\C Sharp Exam.runtimeconfig.json
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\bin\Debug\netcoreapp3.1\C Sharp Exam.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\bin\Debug\netcoreapp3.1\C Sharp Exam.dll
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\bin\Debug\netcoreapp3.1\C Sharp Exam.pdb
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.csproj.AssemblyReference.cache
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.AssemblyInfo.cs
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.dll
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.pdb
+D:\Visual Studio\cSharp\C Sharp Exam\C Sharp Exam\obj\Debug\netcoreapp3.1\C Sharp Exam.genruntimeconfig.cache
